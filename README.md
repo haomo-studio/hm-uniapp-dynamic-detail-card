@@ -14,7 +14,7 @@
 
 ## 技术支持
 
-* [uni-app插件市场](https://ext.dcloud.net.cn/plugin?id=1380)
+* [uni-app插件市场](https://ext.dcloud.net.cn/plugin?id=1524)
 
 * [npm包](https://www.npmjs.com/package/hm-uniapp-dynamic-detail-card)
 
@@ -116,6 +116,6 @@ options对象各个属性说明如下：
 
 ## 更新日志
 
-### 0.0.1(2020-03-07)
+### 0.0.1(2020-03-28)
 
 * 完成第一个版本
